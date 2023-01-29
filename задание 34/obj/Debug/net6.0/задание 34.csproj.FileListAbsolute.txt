@@ -1,0 +1,15 @@
+D:\программирование\1\дз\задание 34\bin\Debug\net6.0\задание 34.exe
+D:\программирование\1\дз\задание 34\bin\Debug\net6.0\задание 34.deps.json
+D:\программирование\1\дз\задание 34\bin\Debug\net6.0\задание 34.runtimeconfig.json
+D:\программирование\1\дз\задание 34\bin\Debug\net6.0\задание 34.dll
+D:\программирование\1\дз\задание 34\bin\Debug\net6.0\задание 34.pdb
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.csproj.AssemblyReference.cache
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.AssemblyInfoInputs.cache
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.AssemblyInfo.cs
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.csproj.CoreCompileInputs.cache
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.dll
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\refint\задание 34.dll
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.pdb
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\задание 34.genruntimeconfig.cache
+D:\программирование\1\дз\задание 34\obj\Debug\net6.0\ref\задание 34.dll
